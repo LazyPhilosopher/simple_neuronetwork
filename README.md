@@ -1,2 +1,2 @@
-kinda simple test sigmoid neuron network written in C#
+kinda simple test sigmoid neuron network written in C# \r\n
 it's not ready yet...
